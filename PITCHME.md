@@ -39,6 +39,10 @@ A platform for managing containerized workloads and services
 
 ---
 
+## High Cost / Slow Access For Experiments
+
+---
+
 ## Fragile Deployment Pipeline
 
 - Environments are not like for like. 
@@ -124,8 +128,10 @@ A platform for managing containerized workloads and services
 
 ---
 
-## High Cost / Slow Access For Experiments
+## Currently used in production!
 
 ---
 
-### Further resources
+## Any questions?
+
+- Any further presentations?
