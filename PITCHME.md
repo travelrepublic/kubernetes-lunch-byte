@@ -130,6 +130,8 @@ A platform for managing containerized workloads and services
 
 ## Currently used in production!
 
+![In production](production.jpg)
+
 ---
 
 ## Any questions?
