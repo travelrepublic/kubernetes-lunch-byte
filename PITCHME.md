@@ -34,6 +34,9 @@ A platform for managing containerized workloads and services
 
 ## An incremental migration to the public cloud
 
+- Kubernetes is offered as a service by the 3 major cloud providers
+- Clusters *could be* federated
+
 ---
 
 ## Fragile Deployment Pipeline
